@@ -42,5 +42,11 @@ public class BeeWorld extends World
         mosca2.setLocation(38,264);
         mosca3.setLocation(91,320);
         mosca4.setLocation(100,256);
+        mosca3.setLocation(636,107);
+        mosca4.setLocation(515,449);
+        mosca.setLocation(240,332);
+        mosca2.setLocation(236,103);
+        aranha.setLocation(412,103);
+        abelha.setLocation(107,515);
     }
 }
